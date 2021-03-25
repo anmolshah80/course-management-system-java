@@ -1,0 +1,16 @@
+1001	BIT	4CS001	Introductory Programming and Problem Solving	Raj Pd. Shrestha	2020	1	
+1001	BIT	4CS015	Fundamentals of Computing	Kritika Tuladhar	2020	1	
+1001	BIT	4CS016	Embedded System Programming	Robert Page	2020	1	
+1001	BIT	4CS017	Internet Software Architecture	Regine Paul	2020	2	
+1001	BIT	4MM013	Computational Mathematics	Prakash Shrestha	2020	2	
+1001	BIT	4CS004	Computer Architecture and Operating Systems	Michael Porter	2020	1	
+1001	BIT	4CS005	Introduction to Programming I	Raj Pd. Shrestha	2020	2	
+1001	BIT	4CS006	Introduction to Web Technologies	Kamlesh Shrestha	2020	2	
+1002	BIBM	4IB004	Business in a Global Context	Martha Minow	2020	1	
+1002	BIBM	4MK006	Introduction to Brand Communication	Peter Galison	2020	1	
+1002	BIBM	4MK007	Principles of Marketing	Adam Cohen	2020	1	
+1002	BIBM	4BU003	Principles of Business	Martha Minow	2020	2	
+1002	BIBM	4HR002	Introduction to People at work	Michael Spence	2020	1	
+1002	BIBM	4AC013	Financial Management	Adam Cohen	2020	2	
+1002	BIBM	4HR017	Diversity Management in a Global Context	Michael Spence	2020	2	
+1002	BIBM	4BU002	21st Century Marketing and Management	Peter Galison	2020	2	

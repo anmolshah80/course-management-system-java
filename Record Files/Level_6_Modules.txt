@@ -1,0 +1,18 @@
+1002	BIBM	6IB003	Dynamics of Multinational Companies	Ram Shrestha	2022	1	mandatory	
+1002	BIBM	6IB006	Debating Globalisation	Roshani Neupane	2022	1	mandatory	
+1002	BIBM	6IB011	Business Research Methods	Raj Prasad	2022	1	mandatory	
+1002	BIBM	6MK001	International Marketing	Roshani Neupane	2022	2	mandatory	
+1002	BIBM	6BE003	Strategic Management	Ram Shrestha	2022	2	mandatory	
+1002	BIBM	6BU003	Priciples of Business	Raj Paudel	2022	1	optional	
+1002	BIBM	6BU013	Independent Project	Ram Shrestha	2022	2	mandatory	
+1002	BIBM	6GK002	Project-Based Learning	Raj Prasad	2022	2	optional	
+1002	BIBM	6AC020	Financial Management	Kavita Magar	2022	1	optional	
+1002	BIBM	6BU019	Operations and Supply Management	Kavita Magar	2022	2	optional	
+1001	BIT	6CS014	Complex System	Bill George	2022	1	mandatory	
+1001	BIT	6CS005	High Performance Computing	Martin Feldstein	2022	2	mandatory	
+1001	BIT	6CS008	Project and Professionalism	Caroline Elkins	2022	2	mandatory	
+1001	BIT	6CS012	Artificial Intelligence and Machine Learning	Bill George	2022	1	mandatory	
+1001	BIT	6CS030	Big Data	Caroline Elkins	2022	2	mandatory	
+1001	BIT	6CS001	Personal Development Skills for Computing	Biraj Dulal	2022	1	mandatory	
+1001	BIT	6CS007	Database Management Systems	Martin Feldstein	2022	1	optional	
+1001	BIT	6CS019	Computer Networking	Caroline Elkins	2022	2	optional	

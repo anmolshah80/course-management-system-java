@@ -1,0 +1,16 @@
+1001	BIT	5CS019	Object-Oriented Design and Programming	Deepson Shrestha	2021	1	
+1001	BIT	5CS021	Numerical Methods and Concurrency	Sachit Tandukar	2021	1	
+1001	BIT	5CS037	Concepts and Technologies of AI	Sachin Kafle	2021	2	
+1001	BIT	5CS002	Introductory Data Structures and Algorithm	Prakash Gautam	2021	1	
+1001	BIT	5CS022	Distributed and Cloud System Programming	Sachin Kafle	2021	2	
+1001	BIT	5CS024	Collaborative Development	Sachit Tandukar	2021	2	
+1001	BIT	5CS020	Human Computer Interaction	Prakash Gautam	2021	2	
+1001	BIT	5CS003	Computing Mathematics and Digital Logic	Uttam Acharya	2021	1	
+1002	BIBM	5FC003	International Financial Institutions and Market	Alyssa A. Goodman	2021	1	
+1002	BIBM	5IB004	Economics of Managerial Decision-Making	Howard Gardner	2021	1	
+1002	BIBM	5IB005	Contemporary Issues in IBM	John Quelch	2021	2	
+1002	BIBM	5BU010	Digital Business and Innovation	Alyssa A. Goodman	2021	2	
+1002	BIBM	5BU012	Operations and Supply Management	John Quelch	2021	1	
+1002	BIBM	5HR006	International Human Resources – The Key Issues	Howard Gardner	2021	2	
+1002	BIBM	5BM005	Foundational Statistics	George C. Lodge	2021	1	
+1002	BIBM	5BM003	International Trade and Finance	George C. Lodge	2021	2	
